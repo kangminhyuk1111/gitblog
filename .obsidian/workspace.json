@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-21-post5.md",
+                "file": "_posts/2023-09-21-post2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-21-post5.md",
+                "file": "_posts/2023-09-21-post2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-21-post5.md",
+                "file": "_posts/2023-09-21-post2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-21-post5.md"
+                "file": "_posts/2023-09-21-post2.md"
               }
             }
           }
@@ -147,32 +147,31 @@
   },
   "active": "51f81fc3e7b3b908",
   "lastOpenFiles": [
-    "_site/posts/post5/index.html",
-    "_site/posts/post5",
-    "_posts/2023-09-21-post4.md",
-    "_posts/2023-09-21-post5.md",
-    "_site/assets/img/bye.png",
-    "assets/img/bye.png",
-    "assets/img/bye.png.crdownload",
     "_posts/2023-09-21-post1.md",
     "_posts/2023-09-21-post2.md",
+    "_posts/2023-09-21-post5.md",
+    "assets/img/favicons/site.webmanifest",
+    "assets/img/favicons/mstile-150x150.png",
+    "assets/img/favicons/favicon.ico",
+    "assets/img/favicons/favicon-32x32.png",
+    "assets/img/favicons/favicon-16x16.png",
+    "assets/img/favicons/browserconfig.xml",
+    "assets/img/favicons/apple-touch-icon.png",
+    "assets/img/favicons/android-chrome-512x512.png",
+    "assets/img/favicons/android-chrome-192x192.png",
+    "assets/img/favicons",
+    "_includes/comments/utterances.html",
+    "_includes/comments/giscus.html",
+    "_includes/comments/disqus.html",
+    "_includes/embed/youtube.html",
+    "_includes/embed/twitch.html",
+    "_includes/comments.html",
+    "_posts/2023-09-21-post4.md",
+    "_site/assets/img/bye.png",
+    "assets/img/bye.png",
     "_posts/2023-09-21-post3.md",
-    "_config.yml~",
     "_site/assets/img/avatar.png",
     "assets/img/avatar.png",
-    "assets/img/avatar.png.crdownload",
-    "assets/img/java.png",
-    "assets/img/back2.jpg",
-    "_site/assets/img/java.png",
-    "_site/assets/img/java.pnh.png",
-    "assets/img/java.pnh.png.crdownload",
-    "_posts/aasdfaf.md",
-    "_site/assets/img/node.png",
-    "assets/img/node.png",
-    "assets/img/node.png.crdownload",
-    "_site/tags/study/index.html",
-    "_site/tags/study",
-    "assets/img",
-    "_site/posts/post1/index.html"
+    "_posts/aasdfaf.md"
   ]
 }
