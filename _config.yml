@@ -18,12 +18,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Kang.Devlog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 강민혁의 개발 블로그 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  study java, javascript, python, and all programming issue
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
