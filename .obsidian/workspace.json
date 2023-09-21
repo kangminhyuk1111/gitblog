@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-21-post2.md",
+                "file": "_posts/2023-09-21-post4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-21-post2.md",
+                "file": "_posts/2023-09-21-post4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-21-post2.md",
+                "file": "_posts/2023-09-21-post4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-21-post2.md"
+                "file": "_posts/2023-09-21-post4.md"
               }
             }
           }
@@ -147,9 +147,21 @@
   },
   "active": "51f81fc3e7b3b908",
   "lastOpenFiles": [
+    "_posts/2023-09-21-post5.md",
+    "_posts/2023-09-21-post4.md",
     "_posts/2023-09-21-post1.md",
     "_posts/2023-09-21-post2.md",
-    "_posts/2023-09-21-post5.md",
+    "_posts/2023-09-21-post3.md",
+    "_site/posts/post3/index.html",
+    "_site/posts/post3",
+    "_site/assets/img/image.gif",
+    "assets/img/image.gif",
+    "assets/img/image.gif.crdownload",
+    "assets/img/java.png.crdownload",
+    "_site/assets/img/flask.png",
+    "_site/assets/img/다운로드.png",
+    "assets/img/flask.png",
+    "assets/img/다운로드.png.crdownload",
     "assets/img/favicons/site.webmanifest",
     "assets/img/favicons/mstile-150x150.png",
     "assets/img/favicons/favicon.ico",
@@ -158,20 +170,8 @@
     "assets/img/favicons/browserconfig.xml",
     "assets/img/favicons/apple-touch-icon.png",
     "assets/img/favicons/android-chrome-512x512.png",
-    "assets/img/favicons/android-chrome-192x192.png",
     "assets/img/favicons",
     "_includes/comments/utterances.html",
-    "_includes/comments/giscus.html",
-    "_includes/comments/disqus.html",
-    "_includes/embed/youtube.html",
-    "_includes/embed/twitch.html",
-    "_includes/comments.html",
-    "_posts/2023-09-21-post4.md",
-    "_site/assets/img/bye.png",
-    "assets/img/bye.png",
-    "_posts/2023-09-21-post3.md",
-    "_site/assets/img/avatar.png",
-    "assets/img/avatar.png",
     "_posts/aasdfaf.md"
   ]
 }
