@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "03439f4f50ffd21d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b19c7c6eb80f088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51f81fc3e7b3b908",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a6f98323351e01d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f95af3b51704f851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21df2e0a12d4c04c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ff0443ec9b1e646",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f78961edfb22a781",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fd9967c943faf66",
+    "type": "split",
+    "children": [
+      {
+        "id": "7848b268172d818c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f23d4809001b24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2981a3127a9a45ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc5afea75884b2a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ee600895ea26430",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "51f81fc3e7b3b908",
+  "lastOpenFiles": [
+    "_config.yml~",
+    "_site/assets/img/avatar.png",
+    "assets/img/avatar.png",
+    "assets/img/avatar.png.crdownload",
+    "assets/img/java.png",
+    "assets/img/back2.jpg",
+    "_site/assets/img/java.png",
+    "_posts/2023-09-21-post1.md",
+    "_site/assets/img/java.pnh.png",
+    "assets/img/java.pnh.png.crdownload",
+    "_posts/aasdfaf.md",
+    "_site/assets/img/node.png",
+    "assets/img/node.png",
+    "assets/img/node.png.crdownload",
+    "_site/tags/study/index.html",
+    "_site/tags/study",
+    "assets/img",
+    "_site/posts/post1/index.html",
+    "_site/posts/post1"
+  ]
+}
