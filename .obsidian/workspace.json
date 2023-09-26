@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b19c7c6eb80f088",
+        "id": "d8e87afd08f7fa35",
         "type": "tabs",
         "children": [
           {
-            "id": "51f81fc3e7b3b908",
+            "id": "f442687a630021d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-22-post3.md",
+                "file": "_posts/2023-09-24-post.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-22-post3.md",
+                "file": "_posts/2023-09-24-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-22-post3.md",
+                "file": "_posts/2023-09-24-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-22-post3.md"
+                "file": "_posts/2023-09-24-post.md"
               }
             }
           }
@@ -145,37 +145,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "51f81fc3e7b3b908",
+  "active": "f442687a630021d7",
   "lastOpenFiles": [
-    "_site/posts/post2-1/index.html",
-    "_site/posts/post2-1",
-    "_posts/2023-09-22-post2.md",
+    "_site/assets/img/python3.png",
+    "assets/img/python3.png",
+    "assets/img/python3.png.crdownload",
+    "_site/Pasted image 20230924000800.png",
+    "_site/Pasted image 20230924000615.png",
+    "_site/Pasted image 20230924000542.png",
+    "_site/Pasted image 20230924000338.png",
+    "_site/Pasted image 20230924000247.png",
+    "_site/assets/img/python2.jpg",
+    "assets/img/python2.jpg",
+    "assets/img/python2.jpg.crdownload",
+    "assets/img/python.jpg",
+    "_posts/2023-09-24-post.md",
+    "_site/assets/img/python.jpg",
+    "assets/img/python.jpg.crdownload",
+    "_site/tags/api/index.html",
+    "_site/tags/api",
+    "_site/tags/python/index.html",
+    "_site/tags/python",
+    "_site/posts/post/index.html",
+    "_site/posts/post",
     "_posts/2023-09-22-post3.md",
+    "_site/posts/post2-1/index.html",
+    "_posts/2023-09-22-post2.md",
     "_posts/2023-09-22-post1.md",
-    "_site/assets/img/js.png",
-    "_site/tags/js/index.html",
-    "_site/tags/js",
-    "_site/tags/공부/index.html",
-    "_site/tags/공부",
-    "_site/tags/알고리즘/index.html",
-    "_site/tags/알고리즘",
-    "assets/img/js.png",
-    "assets/img/js.png.crdownload",
     "_posts/2023-09-21-post5.md",
     "_posts/2023-09-21-post4.md",
     "_posts/2023-09-21-post1.md",
     "_posts/2023-09-21-post2.md",
     "_posts/2023-09-21-post3.md",
-    "_site/posts/post3/index.html",
-    "_site/posts/post3",
-    "_site/assets/img/image.gif",
-    "assets/img/image.gif",
-    "_site/assets/img/flask.png",
-    "_site/assets/img/다운로드.png",
-    "assets/img/flask.png",
-    "assets/img/favicons/mstile-150x150.png",
-    "assets/img/favicons/favicon-32x32.png",
-    "assets/img/favicons/favicon-16x16.png",
     "_posts/aasdfaf.md"
   ]
 }
